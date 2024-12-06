@@ -73,9 +73,9 @@ The primary goal is to forecast the hydrometric levels of the Arno River using s
 
 | **Model**       | **MAE (Mean Absolute Error)** | **MSE (Mean Squared Error)** |
 |------------------|------------------------------|------------------------------|
-| ARIMA           | e.g., 0.418                  | e.g., 0.354                  |
-| AutoARIMA       | e.g., 0.439                  | e.g., 0.371                 |
-| Prophet         | e.g., 0.331                  | e.g., 0.287                  |
+| ARIMA           |       0.418                  |       0.354                  |
+| AutoARIMA       |       0.439                  |       0.371                 |
+| Prophet         |       0.331                  |       0.287                  |
 
 **Note**: Despite its ability to incorporate external regressors, Prophet consistently outperformed ARIMA-based models in capturing seasonal patterns and hydrometric variability.
 
