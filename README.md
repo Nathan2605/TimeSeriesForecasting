@@ -9,7 +9,8 @@ Efficient water management is crucial for sustaining ecosystems and human activi
 
 The project is organized as follows:
 
-- `app.py` - The main Python script.
+- `time_series_analysis.ipynb` - The main Python script.
+- `app.py` - Python script.
 - `explore.py` - A notebook to explore data, play around, visualize, clean, etc. 
 - `utils.py` - This file contains utility code for operations like database connections.
 - `requirements.txt` - This file contains the list of necessary python packages.
